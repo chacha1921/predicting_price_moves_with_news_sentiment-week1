@@ -7,3 +7,4 @@ nltk
 spacy
 gensim
 jupyterlab
+pytest
