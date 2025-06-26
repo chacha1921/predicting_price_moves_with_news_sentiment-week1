@@ -8,3 +8,6 @@ spacy
 gensim
 jupyterlab
 pytest
+ta-lib
+pynance
+
